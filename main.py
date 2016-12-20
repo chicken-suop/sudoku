@@ -95,13 +95,13 @@ def man():
             Solves a sudoku problem from sudoku.txt
 
         -sM (--solveMORE)
-            Solves AMOUNT of sudoku in unsolved.txt and writes answers to solved.txt
+            Solves [AMOUNT] of sudoku in unsolved.txt and writes answers to solved.txt
 
         -u (--unsolve)
-            Unsolves an AMOUNT of sudoku in solved.txt and writes to screen
+            Unsolves an [AMOUNT] of sudoku in solved.txt and writes to screen
 
         -uQ (--unsolveQUICK)
-            Shows an AMOUNT of unsolved sudoku problems from unsolved.txt
+            Shows an [AMOUNT] of unsolved sudoku problems from unsolved.txt
 
         -uA (--unsolveALL)
             Unsolves all the sudoku from solved.txt and writes to unsolved.txt
