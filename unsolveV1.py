@@ -1,5 +1,5 @@
 # unsolve version 1
-# Doesn't work, converted to new version "unsolve.py"
+# Doesn't work, updated to new version "unsolve.py"
 
 from random import shuffle
 def is_valid(line):
